@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae23ad0c2ccae75429b2a4afc673f603, type: 3}
+  m_Name: X2
+  m_EditorClassIdentifier: 
+  icon: {fileID: 7451915708761120559, guid: 76efab5254c2e2943a82ab6ed8a7b4dd, type: 3}
+  flightspeed: 2
+  moveSpeed: 0
+  duration: 3
+  id: 0
+  currency: {fileID: 11400000, guid: ae76479d12163de429d090b10871b883, type: 2}
+  hold: 1

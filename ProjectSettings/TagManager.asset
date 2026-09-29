@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - kill
+  - trigger
+  - hitbox
+  - heal
+  - wall
+  - powerup
+  - UIPOWER
+  - energy
+  - Coin
+  - win
+  - SLOW
+  - Currency
+  - teleport
+  - Music
+  - Sound
+  - spawn
+  - tracker
+  - ShieldEff
+  - engine
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Global light
+  - Water
+  - UI
+  - background
+  - kill
+  - player
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Global light
+    uniqueID: 3291687141
+    locked: 0
+  - name: real light
+    uniqueID: 1930422397
+    locked: 0
+  m_RenderingLayers:
+  - Default
